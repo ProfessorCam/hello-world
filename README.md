@@ -1,2 +1,2 @@
-# hello-world
-Hello World Repository
+#!/bin/bash
+echo Hello World on GitHub
