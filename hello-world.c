@@ -6,4 +6,4 @@ int main() {
 }
 
 //To run this command in terminal you will need to run the following command:
-//gcc hello-world.c -o hello-world
+//gcc hello-world.c -o hello-world-in-c
